@@ -6,14 +6,9 @@ Welcome to the Hamburg Kids Events Parser! This project is all about making life
 
 ## 🛠️ Tech Stack
 
-- **Python 3.10+** (with lots of love for type hints via the `typing` library)
-- **BeautifulSoup** for HTML parsing
-- **Requests** for fetching web pages
+- **Python 3.10+**
+- **Docling+** for document parsing
 - **OpenAI** for chat and embeddings (because who doesn’t want a little AI magic?)
-- **dotenv** for environment variable management
-- **Custom tokenization** for handling those pesky token limits
-- **Markdown** for beautiful output
-- **Git** for version control (because chaos is only fun in theory)
 
 ---
 
